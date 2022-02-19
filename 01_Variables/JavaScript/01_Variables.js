@@ -128,9 +128,9 @@ console.log(qwe)
     function first and then console.log(zxc) (i mean line 139)
 
     Console:
-        undefined   line 135
-        Samsung     line 138
-        Apple       line 142
+        undefined   line 138
+        Samsung     line 140
+        Apple       line 143
 */
 
 var zxc = "Apple" // here var is global scope
@@ -143,7 +143,7 @@ myfunction_03()
 console.log(zxc)
 
 /*  
-    Mark_04 -> If we remove lines 138 and 139, 
+    Mark_04 -> If we remove lines 139 and 140, 
     we will see this result in the console.
 
     Console:
@@ -183,3 +183,7 @@ function myfunction_05() {
 }
 myfunction_05()
 console.log(yui)
+
+
+
+// i will resume this document

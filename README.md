@@ -7,7 +7,7 @@ Main course contains 2 parts which cover JavaScript as a programming language an
 ### Part 1 
 - The JavaScript language
     - Fundamentals ( Let’s learn the fundamentals of script building. )
-        - Hello, world!
+        - Hello, world! 
         - Code structure
         - The modern mode, "use strict"
         - Variables
